@@ -1,0 +1,14 @@
+---
+title: "Privacy-Enhancing Consortium Blockchain"
+collection: talks
+type: "Invited Talk"
+permalink: /talks/2018-06-04-BCC
+venue: "Second ACM Workshop on Blockchains, Cryptocurrencies and Contracts (BCC'18)"
+date: 2018-06-04
+location: "Incheon, Korea"
+---
+
+Blockchain provides an immutable, global transaction history in distributed system. All transactions can be seen by all of the nodes on the network. However, it may not be desirable in business use cases that require strong privacy. In public blockchain, several cryptographic techniques are used to provide anonymity of users and confidentiality of transaction amount (such as linkable ring signature in Monero, and zk-SNARK in ZCash). However, they are not efficient enough for systems with high throughput. Therefore, we propose and implement some new privacy-enhancing techniques which can be used in consortium blockchain.
+
+[More information here](https://sites.google.com/view/bcc18/invited-talk)
+
