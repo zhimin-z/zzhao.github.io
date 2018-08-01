@@ -1,0 +1,14 @@
+---
+title: "RingCT 2.0: A Compact Accumulator-Based (Linkable Ring Signature) Protocol for Blockchain Cryptocurrency Monero."
+collection: publications
+permalink: /publication/2017-09-RingCT
+excerpt: ''
+date: Sep 11, 2017
+venue: 'Computer Security - ESORICS 2017 - 22nd European Symposium on Research in Computer Security, Oslo, Norway, September 11-15, 2017, Proceedings, Part II'
+paperurl: 'https://doi.org/10.1007/978-3-319-66399-9_25'
+citation: 'Shifeng Sun, Man Ho Au, Joseph K. Liu, Tsz Hon Yuen: RingCT 2.0: A Compact Accumulator-Based (Linkable Ring Signature) Protocol for Blockchain Cryptocurrency Monero. ESORICS (2) 2017: 456-474'
+---
+
+[Download paper here](https://doi.org/10.1007/978-3-319-66399-9_25)
+
+Recommended citation: Shifeng Sun, Man Ho Au, Joseph K. Liu, Tsz Hon Yuen. "RingCT 2.0: A Compact Accumulator-Based (Linkable Ring Signature) Protocol for Blockchain Cryptocurrency Monero". <i>ESORICS (2)</i>. 2017: 456-474' 
