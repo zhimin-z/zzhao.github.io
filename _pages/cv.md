@@ -45,7 +45,7 @@ Patents
 * Filed Patents:
   * T. H. Yuen, S. M. Chow, W. F. Lai. “Searchable Encryption with Hybrid Index”. Singapore Patent 10201706106Q, 26 Jul 2017.
   * B. Smyth, E. Quaglia, T. H. Yuen. “A Wireless Communication Device for Communication in a Wireless Communication Network”. EU Patent  to be filed, 20 Mar 2017.
-  * T. H. Yuen, Z. Zhang. “System and Method for Performing Cryptographic Operations”. Singapore Patent 10201609427S, 11 Nov 2016. (Also in PCT)
+  * T. H. Yuen, Z. Zhang. “System and Method for Performing Cryptographic Operations”. Singapore Patent 10201609472S, 11 Nov 2016. (Also in PCT)
   * H. Cui, G. Wang, T. H. Yuen, R. H. Deng, Y. Li. “Server-Aided Revocable Attribute-Based Encryption”. China Patent to be filed, 5 Aug 2016. (Also in PCT, EU, India, Japan, Korea, US)
   * T. H. Yuen, S. Wu. “Method of Obfuscating Data”. Singapore Patent 10201502401X, 26 Mar 2015. (Also in PCT WO2016153430A1, China CN107078899A, EU EP3134994A1, US [US20170091485](http://www.freepatentsonline.com/y2017/0091485.html), France, Germany, UK)
   * T. H. Yuen. “System and Method for Searching a Symmetrically Encrypted Database for Conjunctive Keywords”. Singapore Patent 10201407705S, 18 Nov 2014. (Also in [US 20160140179](https://patents.justia.com/patent/20160140179))
