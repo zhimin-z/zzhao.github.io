@@ -12,7 +12,7 @@ Dr Tsz Hon Yuen is an assistant professor in the [Department of Computer Science
 
 Research Interest
 ======
-His current research interests include cryptography (such as public key encryption, digital signatures, identity-based encryption), privacy-presevring protocols (such as anonymous credential, zero-knowledge proof system) and blockchain (such as consensus, payment channel, confidential transactions). 
+His current research interests include cryptography (such as public key encryption, digital signatures, identity-based encryption), privacy-preserving protocols (such as anonymous credential, zero-knowledge proof system) and blockchain (such as consensus, payment channel, confidential transactions). 
 
 He has published more than 50 technical papers, including top journals and conferences such as IEEE TC and Eurocrypt. He received the Best Paper Award in ESORICS 2014. He is also active in industrial fields with more than 10 patents. He has served as the PC members and reviewers for many security and cryptography conferences, workshops and journals.
 
