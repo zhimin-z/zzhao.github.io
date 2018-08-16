@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Dr Tsz Hon Yuen is an assistant professor in the [Department of Computer Science](https://www.cs.hku.hk/) in the [Univeristy of Hong Kong](https://www.hku.hk/). Before joining the Univeristy of Hong Kong, he was a senior researcher of Shield Lab at Huawei Singapore Research Centre. He was a member of the Cryptography Expert Group in Huawei. He received his Ph.D. degree from the University of Wollongong in 2010 and worked as a post-doctoral fellow in the University of Hong Kong before joining Huawei. 
+Dr Tsz Hon Yuen is an assistant professor in the [Department of Computer Science](https://www.cs.hku.hk/) at the [Univeristy of Hong Kong](https://www.hku.hk/). Before joining the Univeristy of Hong Kong, he was a senior researcher of Shield Lab at Huawei Singapore Research Centre. He was a member of the Cryptography Expert Group in Huawei. He received his Ph.D. degree from the University of Wollongong in 2010 and worked as a post-doctoral fellow in the University of Hong Kong before joining Huawei. 
 
 Research Interest
 ======
