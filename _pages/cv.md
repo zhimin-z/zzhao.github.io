@@ -59,6 +59,7 @@ Awards
 Service and leadership
 ======
 * Program committee member
+  * International Conference on Applied Cryptography and Network Security (ACNS) 2019
   * Blockchain and Sharing Economy Applications (BlockSEA) 2018
   * Australasian Conference on Information Security and Privacy (ACISP) 2017, 2016
   * International Conference on Algorithms and Architectures for Parallel Processing (ICA3PP) 2017
