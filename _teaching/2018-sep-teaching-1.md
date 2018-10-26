@@ -12,23 +12,21 @@ Student individuals or groups, during the final year of their studies, undertake
 
 Agora
 ======
-A creative content sharing platform with the use of blockchain technology
-
-https://i.cs.hku.hk/fyp/2018/fyp18003/
+A creative content sharing platform with the use of blockchain technology.<br/>
+<a>https://i.cs.hku.hk/fyp/2018/fyp18003/</a>
 
 Cloud storage using blockchaun
 ======
-https://i.cs.hku.hk/fyp/2018/fyp18032/
+<a>https://i.cs.hku.hk/fyp/2018/fyp18032/</a>
 
 Interactive game design by smart contracts
 ======
-A blockchain turn-based battling game 
-
-https://i.cs.hku.hk/fyp/2018/fyp18030/
+A blockchain turn-based battling game.<br/>
+<a>https://i.cs.hku.hk/fyp/2018/fyp18030/</a>
 
 Design secure digital wallets
 ======
-https://i.cs.hku.hk/fyp/2018/fyp18057/
+<a>https://i.cs.hku.hk/fyp/2018/fyp18057/</a>
 
 Security analysis of cryptocurrency
 ======
