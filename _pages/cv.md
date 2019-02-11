@@ -60,6 +60,7 @@ Service and leadership
 ======
 * Program committee member
   * IEEE Global Communications Conference, Communication and Information System Security Symposium (IEEE Globecom CISS) 2019, 2018, 2017, 2016
+  * IEEE International Conference on Trust, Security and Privacy in Computing and Communications (IEEE TrustCom), Emerging Technologies, 2019.
   * International Conference on Applied Cryptography and Network Security (ACNS) 2019
   * Blockchain and Sharing Economy Applications (BlockSEA) 2018
   * Australasian Conference on Information Security and Privacy (ACISP) 2017, 2016
