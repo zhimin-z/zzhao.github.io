@@ -58,20 +58,24 @@ Awards
  
 Service and leadership
 ======
+* Program chair
+  * International Conference on Provable and Practical Security (ProvSec) 2019
 * Program committee member
+  * European Symposium on Research in Computer Security (ESORICS) 2020
+  * International Annual Conference on Privacy, Security and Trust (PST) 2020
   * IEEE Global Communications Conference, Communication and Information System Security Symposium (IEEE Globecom CISS) 2019, 2018, 2017, 2016
   * IEEE International Conference on Trust, Security and Privacy in Computing and Communications (IEEE TrustCom), Emerging Technologies, 2019.
   * International Conference on Applied Cryptography and Network Security (ACNS) 2019
   * Blockchain and Sharing Economy Applications (BlockSEA) 2018
   * Australasian Conference on Information Security and Privacy (ACISP) 2017, 2016
   * International Conference on Algorithms and Architectures for Parallel Processing (ICA3PP) 2017
-  * International Conference on Information Security Practice and Experience (ISPEC) 2017
+  * International Conference on Information Security Practice and Experience (ISPEC) 2019, 2017
   * IEEE International Conference on Parallel and Distributed Systems (ICPADS) 2015
   * International Symposium on Security and Privacy in Social Networks and Big Data (SocialSec) 2015
-  * International Conference on Information and Communication Security (ICICS) 2018, 2014
+  * International Conference on Information and Communication Security (ICICS) 2019, 2018, 2014
   * Information Security Conference (ISC) 2014
   * International Conference on P2P, Parallel, Grid, Cloud and Internet Computing (3PGCIC) 2014
-  * Network and System Security (NSS) 2014
+  * Network and System Security (NSS) 2019, 2014
   * International Conference on Provable Security (ProvSec) 2018, 2016, 2013
   * International Symposium on Cyberspace Safety and Security (CSS) 2013
   * International Workshop on Large-Scale Network Security (LSNS) 2013
