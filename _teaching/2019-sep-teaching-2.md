@@ -9,3 +9,13 @@ location: "Hong Kong, Hong Kong"
 ---
 
 Candidate will be required to carry out independent work on a major project that will culminate in the writing of a dissertation.
+
+
+
+Post-quantum cryptography - Discrete Gaussian sampling on a lattice-based signature scheme. 
+======
+<a>https://i.cs.hku.hk/~msd18018/</a>
+
+Analysis of Consensus Algorithm in Blockchain. 
+======
+<a>https://i.cs.hku.hk/~msd18085/</a>
