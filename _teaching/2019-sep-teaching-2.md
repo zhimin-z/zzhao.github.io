@@ -1,5 +1,5 @@
 ---
-title: "COMP7704 MSc(CompSc) Dissertation for Cohort 2018 Students [2018]"
+title: "COMP7704. MSc(CompSc) Dissertation for Cohort 2018 Students"
 collection: teaching
 type: "Graduate course"
 permalink: /teaching/2019-sep-teaching-2.md
