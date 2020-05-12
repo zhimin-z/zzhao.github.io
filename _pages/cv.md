@@ -64,7 +64,7 @@ Service and leadership
   * IEEE Conference on Dependable and Secure Computing (IEEE DSC) 2020
   * European Symposium on Research in Computer Security (ESORICS) 2020
   * International Annual Conference on Privacy, Security and Trust (PST) 2020
-  * IEEE Global Communications Conference, Communication and Information System Security Symposium (IEEE Globecom CISS) 2019, 2018, 2017, 2016
+  * IEEE Global Communications Conference, Communication and Information System Security Symposium (IEEE Globecom CISS) 2020, 2019, 2018, 2017, 2016
   * IEEE International Conference on Trust, Security and Privacy in Computing and Communications (IEEE TrustCom), Emerging Technologies, 2020, 2019.
   * International Conference on Applied Cryptography and Network Security (ACNS) 2019
   * Blockchain and Sharing Economy Applications (BlockSEA) 2018
@@ -73,7 +73,7 @@ Service and leadership
   * International Conference on Information Security Practice and Experience (ISPEC) 2019, 2017
   * IEEE International Conference on Parallel and Distributed Systems (ICPADS) 2015
   * International Symposium on Security and Privacy in Social Networks and Big Data (SocialSec) 2015
-  * International Conference on Information and Communication Security (ICICS) 2019, 2018, 2014
+  * International Conference on Information and Communication Security (ICICS) 2020, 2019, 2018, 2014
   * Information Security Conference (ISC) 2020, 2014
   * International Conference on P2P, Parallel, Grid, Cloud and Internet Computing (3PGCIC) 2014
   * Network and System Security (NSS) 2019, 2014
