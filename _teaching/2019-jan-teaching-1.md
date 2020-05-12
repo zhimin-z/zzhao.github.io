@@ -1,5 +1,5 @@
 ---
-title: "COMP3320. Electronic Commerce Technology. 2018 - now"
+title: "COMP3320. Electronic Commerce Technology. [2018 - now]"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2019-jan-teaching-1
