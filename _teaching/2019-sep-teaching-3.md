@@ -1,5 +1,5 @@
 ---
-title: "COMP4801. Final year project 2019-20"
+title: "COMP4801. Final Year Project 2019-20"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2019-sep-teaching-3
