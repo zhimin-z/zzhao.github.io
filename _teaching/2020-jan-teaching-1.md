@@ -1,5 +1,5 @@
 ---
-title: "ECOM7001 Case Study Project"
+title: "ECOM7001. Case Study Project"
 collection: teaching
 type: "Graduate course"
 permalink: /teaching/2020-jan-teaching-1
