@@ -1,5 +1,5 @@
 ---
-title: "FITE 1010. Introduction to Financial Technologies. 2019 - now"
+title: "FITE 1010. Introduction to Financial Technologies. [2019 - now]"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2019-sep-teaching-1
