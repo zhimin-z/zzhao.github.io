@@ -11,9 +11,9 @@ title                    : "Dr. Tsz Hon Yuen, John"
 title_separator          : "-"
 name                     : &name "Dr. Tsz Hon Yuen, John"
 description              : &description "Assitant Professor in the Department of Computer Science, The University of Hong Kong"
-url                      : https://zhimin-z.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://zzhao.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "zhimin-z/zhimin-z.github.io"
+repository               : "zhimin-z/zzhao.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
