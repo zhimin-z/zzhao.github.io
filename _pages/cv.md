@@ -36,6 +36,7 @@ Work experience
       * Build the gameplay data onto a streaming parser and increase the frame rate up to 60 FPS in MyCareer mode.
       * Contribute to the setup of component-based GameObjects to replace non-container procedures.
       * Build batch loader and Unity-like inspector for the WWE game editor. 
+      * Add new gameplay to Universe mode in WWE 2020.
   
 Awards
 ======  
