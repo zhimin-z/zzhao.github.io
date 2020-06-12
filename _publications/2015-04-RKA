@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2015-04-RKA
 excerpt: ''
 date: Apr 14, 2015
-venue: 'Proceedings of the 10th ACM Symposium on Information, Computer and Communications Security, ASIACCS 2015, Singapore, April 14-17, 2015'
+lecturer: 'Proceedings of the 10th ACM Symposium on Information, Computer and Communications Security, ASIACCS 2015, Singapore, April 14-17, 2015'
 paperurl: 'http://doi.acm.org/10.1145/2714576.2714622'
 citation: '	Tsz Hon Yuen, Cong Zhang, Sherman S. M. Chow, Siu-Ming Yiu: Related Randomness Attacks for Public Key Cryptosystems. AsiaCCS 2015: 215-223'
 ---

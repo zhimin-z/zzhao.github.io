@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2019-05-eprint
 excerpt: ''
 date: Feb 20, 2020
-venue: 'The 24-th International Conference on Financial Cryptography and Data Security (FC 2020). Kota Kinabalu, Sabah, Malaysia. February 10–14, 2020.'
+lecturer: 'The 24-th International Conference on Financial Cryptography and Data Security (FC 2020). Kota Kinabalu, Sabah, Malaysia. February 10–14, 2020.'
 paperurl: 'https://ia.cr/2019/508'
 citation: 'Tsz Hon Yuen, Shi-feng Sun, Joseph K. Liu, Man Ho Au, Muhammed F. Esgin, Qingzhao Zhang and Dawu Gu: RingCT 3.0 for Blockchain Conﬁdential Transaction: Shorter Size and Stronger Security. To appear in FC 2020. Cryptology ePrint Archive Report 2019/508'
 ---

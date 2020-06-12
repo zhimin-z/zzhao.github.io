@@ -3,7 +3,7 @@ title: "Deep Learning for Embedding Systems"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2020-jul-teaching
-venue: ""
+lecturer: ""
 date: 2020-07-04
 location: "Online"
 ---

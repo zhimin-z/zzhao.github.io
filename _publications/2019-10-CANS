@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2019-10-CANS
 excerpt: ''
 date: Oct 25, 2019
-venue: 'The 18th International Conference on Cryptology and Network Security (CANS 2019), Fuzhou, China, 25-27 October 2019'
+lecturer: 'The 18th International Conference on Cryptology and Network Security (CANS 2019), Fuzhou, China, 25-27 October 2019'
 paperurl: 'https://doi.org/10.1007/978-3-030-31578-8_12'
 citation: 'Tsz Hon Yuen: PAChain: Private, Authenticated Auditable Consortium Blockchain. CANS 2019: 214-234. Full version can be found in <a href="http://thyuen.github.io/files/cans.pdf">http://thyuen.github.io/files/cans.pdf</a>'
 ---

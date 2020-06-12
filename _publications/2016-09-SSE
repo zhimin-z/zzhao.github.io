@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2016-09-SSE
 excerpt: ''
 date: Sep 26, 2016
-venue: 'Computer Security - ESORICS 2016 - 21st European Symposium on Research in Computer Security, Heraklion, Greece, September 26-30, 2016, Proceedings, Part I'
+lecturer: 'Computer Security - ESORICS 2016 - 21st European Symposium on Research in Computer Security, Heraklion, Greece, September 26-30, 2016, Proceedings, Part I'
 paperurl: 'https://doi.org/10.1007/978-3-319-45744-4_8'
 citation: 'Shifeng Sun, Joseph K. Liu, Amin Sakzad, Ron Steinfeld, Tsz Hon Yuen: An Efficient Non-interactive Multi-client Searchable Encryption with Support for Boolean Queries. ESORICS (1) 2016: 154-172'
 ---

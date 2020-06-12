@@ -10,7 +10,7 @@
 
 # ## Data format
 # 
-# The TSV needs to have the following columns: pub_date, title, venue, excerpt, citation, site_url, and paper_url, with a header at the top. 
+# The TSV needs to have the following columns: pub_date, title, lecturer, excerpt, citation, site_url, and paper_url, with a header at the top. 
 # 
 # - `excerpt` and `paper_url` can be blank, but the others must have values. 
 # - `pub_date` must be formatted as YYYY-MM-DD.
@@ -81,7 +81,7 @@ for row, item in publications.iterrows():
     
     md += "\ndate: " + str(item.pub_date) 
     
-    md += "\nvenue: '" + html_escape(item.venue) + "'"
+    md += "\nlecturer: '" + html_escape(item.lecturer) + "'"
     
     if len(str(item.paper_url)) > 5:
         md += "\npaperurl: '" + item.paper_url + "'"

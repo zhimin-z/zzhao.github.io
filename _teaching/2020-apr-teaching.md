@@ -3,7 +3,7 @@ title: "Graph Neural Networks Theory & Practice"
 collection: teaching
 type: "Graduate course"
 permalink: /teaching/2020-apr-teaching
-venue: ""
+lecturer: ""
 date: 2020-04-11
 location: "Online"
 ---

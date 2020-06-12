@@ -3,7 +3,7 @@ title: "Multimodal Communication and AI Deep Learning"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2019-aug-teaching
-venue: ""
+lecturer: ""
 date: 2019-08-11
 location: "Beijing, China"
 ---

@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2014-09-IBE
 excerpt: ''
 date: Sep 7, 2014
-venue: 'Computer Security - ESORICS 2014 - 19th European Symposium on Research in Computer Security, Wroclaw, Poland, September 7-11, 2014. Proceedings, Part I'
+lecturer: 'Computer Security - ESORICS 2014 - 19th European Symposium on Research in Computer Security, Wroclaw, Poland, September 7-11, 2014. Proceedings, Part I'
 paperurl: 'https://doi.org/10.1007/978-3-319-11203-9_8'
 citation: 'Tsz Hon Yuen, Ye Zhang, Siu-Ming Yiu, Joseph K. Liu: Identity-Based Encryption with Post-Challenge Auxiliary Inputs for Secure Cloud Applications and Sensor Networks. ESORICS (1) 2014: 130-147'
 ---

@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2016-05-PKE
 excerpt: ''
 date: May 30, 2016
-venue: 'Proceedings of the 11th ACM on Asia Conference on Computer and Communications Security, AsiaCCS 2016, Xian, China, May 30 - June 3, 2016'
+lecturer: 'Proceedings of the 11th ACM on Asia Conference on Computer and Communications Security, AsiaCCS 2016, Xian, China, May 30 - June 3, 2016'
 paperurl: 'http://doi.acm.org/10.1145/2897845.2897921'
 citation: 'Shifeng Sun, Dawu Gu, Joseph K. Liu, Udaya Parampalli, Tsz Hon Yuen: Efficient Construction of Completely Non-Malleable CCA Secure Public Key Encryption. AsiaCCS 2016: 901-906'
 ---

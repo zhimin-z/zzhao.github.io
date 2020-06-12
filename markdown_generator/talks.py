@@ -15,7 +15,7 @@ import os
 
 # ## Data format
 # 
-# The TSV needs to have the following columns: title, type, url_slug, venue, date, location, talk_url, description, with a header at the top. Many of these fields can be blank, but the columns must be in the TSV.
+# The TSV needs to have the following columns: title, type, url_slug, lecturer, date, location, talk_url, description, with a header at the top. Many of these fields can be blank, but the columns must be in the TSV.
 # 
 # - Fields that cannot be blank: `title`, `url_slug`, `date`. All else can be blank. `type` defaults to "Talk" 
 # - `date` must be formatted as YYYY-MM-DD.
@@ -80,8 +80,8 @@ for row, item in talks.iterrows():
     
     md += "permalink: /talks/" + html_filename + "\n"
     
-    if len(str(item.venue)) > 3:
-        md += 'venue: "' + item.venue + '"\n'
+    if len(str(item.lecturer)) > 3:
+        md += 'lecturer: "' + item.lecturer + '"\n'
         
     if len(str(item.location)) > 3:
         md += "date: " + str(item.date) + "\n"

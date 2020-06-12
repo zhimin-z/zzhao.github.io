@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2013-05-LEAK
 excerpt: ''
 date: May 8, 2013
-venue: '8th ACM Symposium on Information, Computer and Communications Security, ASIACCS 2013, Hangzhou, China - May 08 - 10, 2013'
+lecturer: '8th ACM Symposium on Information, Computer and Communications Security, ASIACCS 2013, Hangzhou, China - May 08 - 10, 2013'
 paperurl: 'http://doi.acm.org/10.1145/2484313.2484321'
 citation: 'Cong Zhang, Tsz Hon Yuen, Hao Xiong, Sherman S. M. Chow, Siu-Ming Yiu, Yi Jun He: Multi-key leakage-resilient threshold cryptography. AsiaCCS 2013: 61-70'
 ---

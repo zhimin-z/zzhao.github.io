@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2015-03-RKA
 excerpt: ''
 date: Mar 30, 2015
-venue: 'Public-Key Cryptography - PKC 2015 - 18th IACR International Conference on Practice and Theory in Public-Key Cryptography, Gaithersburg, MD, USA, March 30 - April 1, 2015, Proceedings'
+lecturer: 'Public-Key Cryptography - PKC 2015 - 18th IACR International Conference on Practice and Theory in Public-Key Cryptography, Gaithersburg, MD, USA, March 30 - April 1, 2015, Proceedings'
 paperurl: 'https://doi.org/10.1007/978-3-662-46447-2_25'
 citation: 'Baodong Qin, Shengli Liu, Tsz Hon Yuen, Robert H. Deng, Kefei Chen: Continuous Non-malleable Key Derivation and Its Application to Related-Key Security. Public Key Cryptography 2015: 557-578'
 ---

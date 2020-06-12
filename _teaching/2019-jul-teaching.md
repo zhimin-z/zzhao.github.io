@@ -3,7 +3,7 @@ title: "Computational and AI Research in Human Communication"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2019-jul-teaching
-venue: ""
+lecturer: ""
 date: 2019-07-28
 location: "Beijing, China"
 ---

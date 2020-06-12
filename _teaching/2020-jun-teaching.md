@@ -3,7 +3,7 @@ title: "Deep Reinforcement Learning"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2020-jun-teaching
-venue: "Department of Computer Science, The University of Hong Kong"
+lecturer: ""
 date: 2020-06-20
 location: "Online"
 ---

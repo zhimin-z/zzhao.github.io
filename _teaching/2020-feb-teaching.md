@@ -3,7 +3,7 @@ title: "Machine Learning"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2020-feb-teaching
-venue: ""
+lecturer: ""
 date: 2020-02-07
 location: "Online"
 ---
