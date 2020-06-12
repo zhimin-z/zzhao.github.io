@@ -39,7 +39,7 @@ Work experience
   
 Awards
 ======  
-* Outstanding Assistant Lecturer, American Top Education Elite plan, Aug 2019
+* Outstanding Assistant Lecturer, American Top Education Elite plan, Sep 2019
 * Shortlisted, Chinese Students Innovation and Entrepreneurship Competition. Dec 2016
 * Meritorious Prize, The Mathematical Contest in Modeling (MCM). Feb 2013
 * Second Prize, China Undergraduate Physics Tournament. Dec 2012

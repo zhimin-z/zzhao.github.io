@@ -1,7 +1,7 @@
 ---
 title: "Deep Learning for Embedding Systems"
 collection: teaching
-type: "Undergraduate course"
+type: "Undergraduate Level"
 permalink: /teaching/2020-jul-teaching
 lecturer: "Yiyu Shi"
 date: 2020-07-04

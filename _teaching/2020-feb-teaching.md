@@ -1,7 +1,7 @@
 ---
-title: "Machine Learning"
+title: "Intro to Machine Learning"
 collection: teaching
-type: "Undergraduate course"
+type: "Undergraduate Level"
 permalink: /teaching/2020-feb-teaching
 lecturer: "Rakesh Kumar"
 date: 2020-02-07

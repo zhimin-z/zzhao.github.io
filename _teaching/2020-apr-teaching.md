@@ -1,7 +1,7 @@
 ---
 title: "Graph Neural Networks Theory & Practice"
 collection: teaching
-type: "Graduate course"
+type: "Graduate Level"
 permalink: /teaching/2020-apr-teaching
 lecturer: "Petro Lio"
 date: 2020-04-11

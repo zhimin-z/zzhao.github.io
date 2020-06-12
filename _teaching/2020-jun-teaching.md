@@ -1,7 +1,7 @@
 ---
 title: "Deep Reinforcement Learning"
 collection: teaching
-type: "Graduate course"
+type: "Graduate Level"
 permalink: /teaching/2020-jun-teaching
 lecturer: "Petro Lio"
 date: 2020-06-20
