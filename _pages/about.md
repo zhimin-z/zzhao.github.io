@@ -12,7 +12,7 @@ Zhimin Zhao is an assistant lecturer in [Harbour Education](https://www.cetustal
 
 Research Interest
 ======
-His current research interests include program synthesis, machine reading comprehension, and formal language theory. 
+His current research interests include program synthesis, formal language theory, machine reading comprehension, and machine translation. 
 
 Contact
 =====
