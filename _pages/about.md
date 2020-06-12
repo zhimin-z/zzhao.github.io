@@ -8,16 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-Dr Tsz Hon Yuen is an assistant professor in the [Department of Computer Science](https://www.cs.hku.hk/) at the [University of Hong Kong](https://www.hku.hk/). Before joining the University of Hong Kong, he was a senior researcher of Shield Lab at Huawei Singapore Research Centre. He was a member of the Cryptography Expert Group in Huawei. He received his Ph.D. degree from the University of Wollongong in 2010 and worked as a post-doctoral fellow in the University of Hong Kong before joining Huawei. 
+Zhimin Zhao is an assistant lecturer in [Harbour Education](https://www.cetustalk.com/). Before that, he was a software engineer of [Deluxe](https://www.bydeluxe.com/) and [Take-Two Interactive](https://www.take2games.com). He received his Master degree from the University of Pennsylvania in 2016 and Bachelor degree from Beijing Institute of Technology in 2014. 
 
 Research Interest
 ======
-His current research interests include cryptography (such as public key encryption, digital signatures, identity-based encryption), privacy-preserving protocols (such as anonymous credential, zero-knowledge proof system) and blockchain (such as consensus, payment channel, confidential transactions). 
-
-He has published more than 50 technical papers, including top journals and conferences such as IEEE TC and Eurocrypt. He received the Best Paper Award in ESORICS 2014. He is also active in industrial fields with more than 10 patents. He has served as the PC members and reviewers for many security and cryptography conferences, workshops and journals.
+His current research interests include program synthesis, machine reading comprehension, and formal language theory. 
 
 Contact
 =====
-Address: Room 306, Chow Yei Ching Building, The University of Hong Kong, Pokfulam, Hong Kong
-
-Email: thyuen at cs dot hku dot hk
+Email: knightyzhao at gmail dot com
