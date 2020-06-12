@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dr. Tsz Hon Yuen, John"
+title                    : "Zhimin Zhao"
 title_separator          : "-"
-name                     : &name "Dr. Tsz Hon Yuen, John"
-description              : &description "Assitant Professor in the Department of Computer Science, The University of Hong Kong"
+name                     : &name "Zhimin Zhao"
+description              : &description "Lecturer in Harbour Education, Beijing"
 url                      : https://zhimin-z.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "zhimin-z/zhimin-z.github.io"
@@ -79,12 +79,12 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dr. Tsz Hon Yuen, John"
-  avatar           : "1630a.jpg"
-  bio              : "Assitant Professor in the Department of Computer Science, The University of Hong Kong"
-  location         : "Hong Kong"
+  name             : "Zhimin Zhao"
+  avatar           : "bio.jpg"
+  bio              : "Lecturer in Harbour Education, Beijing"
+  location         : "Beijing"
   employer         :
-  googlescholar    : "http://scholar.google.com/citations?user=aVLlo-gAAAAJ&hl=en"
+  googlescholar    : #"http://scholar.google.com/citations?user=aVLlo-gAAAAJ&hl=en"
   email            :
   uri              :
   bitbucket        :
@@ -99,7 +99,7 @@ author:
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : "https://orcid.org/0000-0002-0629-6792"
+  orcid            : #"https://orcid.org/0000-0002-0629-6792"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
