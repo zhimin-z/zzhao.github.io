@@ -26,7 +26,7 @@ Work Experience
 * Dec 2018 - Dec 2019: Software Engineer
   * Method Studios, Santa Monica
   * Duties included: 
-      * Built a tracker system for RubyBlue, which is a virtual museum app whose functionality is powered by ARKit 2.
+      * Built a tracker system for RubyBlue, which is a virtual museum app powered by ARKit 2.
 	  * Integrated different scenes of immersive artistic works into the app with Unity 3D.
 	  * Designed the interactive scenes with Unreal Engine 4 according to SFX designer’s specifications.
 
