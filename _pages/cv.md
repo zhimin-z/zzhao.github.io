@@ -19,23 +19,23 @@ Work Experience
 * Jul 2019 - present: Mentor
   * Harbour Education, Beijing
   * Duties included: 
-      * Hold routine sessions to review the course content.
+      * Hold routine sessions to review the course content on machine learning.
       * Hold practicum seminars to teach cutting-edge frameworks and toolkit.
       * Guide students to complete research reports on topics of their interest.
-
+	  
 * Dec 2018 - Dec 2019: Software Engineer
   * Method Studios, Santa Monica
   * Duties included: 
-      * Built a tracker system for RubyBlue, which is a virtual museum app whose functionality is powered by ARKit 2.  
-	  * Integrated different scenes of immersive artistic works into the app with Unity 3D.  
+      * Built a tracker system for RubyBlue, which is a virtual museum app whose functionality is powered by ARKit 2.
+	  * Integrated different scenes of immersive artistic works into the app with Unity 3D.
 	  * Designed the interactive scenes with Unreal Engine 4 according to SFX designer’s specifications.
 
 * Dec 2016 - Dec 2018: Software Engineer
   * Visual Concepts, Simi Valley
   * Duties included: 
-      * Co-set up a component-based gameplay system to replace the legacy non-container pipeline in WWE 2018.  
-	  * Involved in implementation of the Universal mode in WWE 2020.  
-	  * Developed the JSON-based batch loader, Unity-like GUI, etc. for the WWE game editor.  
+      * Co-set up a component-based gameplay system to replace the legacy non-container pipeline in WWE 2018.
+	  * Involved in implementation of the Universal mode in WWE 2020.
+	  * Developed the JSON-based batch loader, Unity-like GUI, etc. for the WWE game editor.
 	  * Migrated the gameplay data in MyCareer from excel sheets to binary files via flatbuffer and improved the frame rate to 60 FPS.
   
 Honors & Awards
