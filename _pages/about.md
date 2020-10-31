@@ -12,7 +12,7 @@ Zhimin Zhao is a mentor in [Harbour Education](https://www.cetustalk.com/). Befo
 
 Research Interest
 ======
-His current research interests include program synthesis, formal language theory, machine reading comprehension, and machine translation. 
+His current research interests include program synthesis, software vulnerability detection, machine reading comprehension, etc.. 
 
 Contact
 =====
