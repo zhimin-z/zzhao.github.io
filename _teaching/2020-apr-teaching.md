@@ -1,5 +1,5 @@
 ---
-title: "Graph Neural Networks Theory & Practice"
+title: "Graph Neural Networks: Theory & Practice"
 collection: teaching
 type: "Graduate Level"
 permalink: /teaching/2020-apr-teaching

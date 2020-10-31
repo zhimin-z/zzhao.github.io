@@ -1,5 +1,5 @@
 ---
-title: "Multimodal Communication and AI Deep Learning"
+title: "Fundamenals of Multimodal Deep Learning"
 collection: teaching
 type: "Undergraduate Level"
 permalink: /teaching/2019-sep-teaching

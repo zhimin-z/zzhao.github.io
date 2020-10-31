@@ -1,5 +1,5 @@
 ---
-title: "Computational and AI Research in Human Communication"
+title: "Natural Language Processing"
 collection: teaching
 type: "Undergraduate Level"
 permalink: /teaching/2019-aug-teaching
