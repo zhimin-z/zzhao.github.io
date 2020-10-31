@@ -9,12 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Education Background
 ======
 * B.Eng. in Information Countermeasure Technology, Beijing Institute of Technology, 2010-2014
 * M.Sc.Eng. in Computer Graphics and Game Technology, University of Pennsylvania, 2014-2016
 
-Work experience
+Work Experience
 ======
 * Jul 2019 - present: Mentor
   * Harbour Education, Beijing
@@ -38,8 +38,8 @@ Work experience
 	  * Developed the JSON-based batch loader, Unity-like GUI, etc. for the WWE game editor.  
 	  * Migrated the gameplay data in MyCareer from excel sheets to binary files via flatbuffer and improved the frame rate to 60 FPS.
   
-Awards
-======  
+Honors & Awards
+====== 
 * Outstanding Mentor, American Top Education Elite plan, May 2020
 * Shortlisted, Chinese Students Innovation and Entrepreneurship Competition, Dec 2016
 * Outstanding Graduate, Beijing Institute of Technology, Jun 2014
@@ -47,14 +47,14 @@ Awards
 * Second Prize, China Undergraduate Mathematics Tournament, Feb 2012
 * Second Prize, China Undergraduate Physics Tournament, Dec 2012
 
-Tools 
-======  
-* Proficient: TensorFlow, PyTorch, Visual Studio  
-* Familiar: Linux, GPU, Unity, Unreal Engine  
-* Entry-level: Hadoop, Spark, Hive, Kafka, Flink, Storm, Flume etc. 
+Development Tools
+====== 
+* Proficient: TensorFlow, PyTorch, Visual Studio
+* Familiar: Linux, GPU, Unity, Unreal Engine
+* Entry-level: Hadoop, Spark, Hive, Kafka, Flink, Storm, Flume etc.
 
-Languages
-======   
-Proficient: C/C++, Python  
-Familiar: C#, Java, SQL  
-Entry-level: Scala, Haskell, Lisp, Go, Julia, Lua, Assembly, etc.
+Programming Languages
+====== 
+* Proficient: C/C++, Python
+* Familiar: C#, Java, SQL
+* Entry-level: Scala, Haskell, Lisp, Go, Julia, Lua, Assembly, etc.
