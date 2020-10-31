@@ -82,10 +82,10 @@ author:
   name             : "Zhimin Zhao"
   avatar           : "bio.jpg"
   bio              : "Mentor in Harbour Education, Beijing"
-  location         : "Beijing"
+  location         : #"Beijing"
   employer         :
   googlescholar    : #"http://scholar.google.com/citations?user=aVLlo-gAAAAJ&hl=en"
-  email            :
+  email            : knightyzhao@gmail.com
   uri              :
   bitbucket        :
   codepen          :
@@ -98,12 +98,12 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : https://www.linkedin.com/in/zhiminz/
   orcid            : #"https://orcid.org/0000-0002-0629-6792"
   pinterest        :
   soundcloud       :
   stackoverflow    : https://stackoverflow.com/users/10121825/jimmy
-  steam            : "zhimin"
+  steam            : #"zhimin"
   tumblr           :
   twitter          : # "replacethistwitterhandle"
   vine             :
