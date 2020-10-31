@@ -16,7 +16,7 @@ Education
 
 Work experience
 ======
-* Jul 2019 - present: Assistant Lecturer
+* Jul 2019 - present: Mentor
   * Harbour Education, Beijing
   * Duties included: 
       * Hold routine sessions to review the course content.
@@ -26,21 +26,35 @@ Work experience
 * Dec 2018 - Dec 2019: Software Engineer
   * Method Studios, Santa Monica
   * Duties included: 
-      * Build a tracker system whose functionality powered by ARKit 2.
-      * Integrate scenery models into the virtual museum app.
+      * Built a tracker system for RubyBlue, which is a virtual museum app whose functionality is powered by ARKit 2.  
+	  * Integrated different scenes of immersive artistic works into the app with Unity 3D.  
+	  * Designed the interactive scenes with Unreal Engine 4 according to SFX designer’s specifications.
 
 * Dec 2016 - Dec 2018: Software Engineer
   * Visual Concepts, Simi Valley
   * Duties included: 
-      * Migrate and refactor MyCareer mode from WWE 2018 to WWE 2020.
-      * Build the gameplay data onto a streaming parser and increase the frame rate up to 60 FPS in MyCareer mode.
-      * Contribute to the setup of component-based GameObjects to replace non-container procedures.
-      * Build batch loader and Unity-like inspector for the WWE game editor. 
-      * Add new gameplay to Universe mode in WWE 2020.
+      * Co-set up a component-based gameplay system to replace the legacy non-container pipeline in WWE 2018.  
+	  * Involved in implementation of the Universal mode in WWE 2020.  
+	  * Developed the JSON-based batch loader, Unity-like GUI, etc. for the WWE game editor.  
+	  * Migrated the gameplay data in MyCareer from excel sheets to binary files via flatbuffer and improved the frame rate to 60 FPS.
   
 Awards
 ======  
-* Outstanding Assistant Lecturer, American Top Education Elite plan, Sep 2019
-* Shortlisted, Chinese Students Innovation and Entrepreneurship Competition. Dec 2016
-* Meritorious Prize, The Mathematical Contest in Modeling (MCM). Feb 2013
-* Second Prize, China Undergraduate Physics Tournament. Dec 2012
+* Outstanding Mentor, American Top Education Elite plan, May 2020
+* Shortlisted, Chinese Students Innovation and Entrepreneurship Competition, Dec 2016
+* Outstanding Graduate, Beijing Institute of Technology, Jun 2014
+* Meritorious Prize, The Mathematical Contest in Modeling (MCM), Feb 2013
+* Second Prize, China Undergraduate Mathematics Tournament, Feb 2012
+* Second Prize, China Undergraduate Physics Tournament, Dec 2012
+
+Tools 
+======  
+* Proficient: TensorFlow, PyTorch, Visual Studio  
+* Familiar: Linux, GPU, Unity, Unreal Engine  
+* Entry-level: Hadoop, Spark, Hive, Kafka, Flink, Storm, Flume etc. 
+
+Languages
+======   
+Proficient: C/C++, Python  
+Familiar: C#, Java, SQL  
+Entry-level: Scala, Haskell, Lisp, Go, Julia, Lua, Assembly, etc.
